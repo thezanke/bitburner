@@ -4,7 +4,7 @@ Netscript Basic Functions
 =========================
 
 This page contains a subset of functions that are available in Bitburner.
-For the complete list see https://github.com/danielyxie/bitburner/tree/dev/markdown
+For the complete list see https://github.com/danielyxie/bitburner/blob/dev/markdown/bitburner.ns.md
 This includes information such as function signatures, what they do, and their return values.
 
 .. toctree::
