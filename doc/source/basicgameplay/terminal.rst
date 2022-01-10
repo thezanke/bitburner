@@ -284,7 +284,7 @@ hack
 
 Attempt to hack the current server. Requires root access in order to be run.
 
-Related: Hacking Mechanics (TODO Add link here when page gets made)
+Related: :ref:`gameplay_hacking`
 
 help
 ^^^^
