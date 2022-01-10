@@ -15,7 +15,6 @@ that JavaScript has.
    :maxdepth: 5
    :caption: Sections:
 
-    Full documentation <https://github.com/danielyxie/bitburner/blob/dev/markdown/bitburner.ns.md>
     Learn to Program <netscript/netscriptlearntoprogram>
     Netscript 1.0 <netscript/netscript1>
     NetscriptJS (Netscript 2.0) <netscript/netscriptjs>
